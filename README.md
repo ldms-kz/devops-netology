@@ -8,3 +8,5 @@ First line
 - файлы с расширением .tfvars
 - файлы с расширением override.tf и override.tf.json, а так же файлы оканчивающиеся на *_override.tf и *_override.tf.json
 - файлы .terraformrc и terraform.rc
+
+Строка для теста git из IDE
